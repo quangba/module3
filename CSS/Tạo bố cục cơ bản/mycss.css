@@ -1,0 +1,54 @@
+#header{
+    width: 100%;
+    height: 70px;
+    background: palevioletred;
+    margin-bottom: 10px;
+   
+}
+
+#header-link{
+    position: fixed;
+    width: 100%;
+    height: 40px;
+    background: aqua;
+    margin-bottom: 10px;
+    
+}
+#left{
+    width: 25%;
+    height: 400px;
+    background: chocolate;
+    float: left;
+}
+#content{
+    width: 43%;
+    height: 400px;
+    background: gold;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+#right{
+    width: 30%;
+    height: 400px;
+    background: teal;
+    float: right;
+
+}
+
+#footer{
+    width: 100%;
+    height: 70px;
+    background:palegreen;
+    margin-top: 10px;
+    float: left;
+}
+p{
+    text-align: center;
+    font-size: 100%;
+    font-style: normal;
+    font-weight:bolder;
+}
+#a{
+    margin-top: 60px;
+}

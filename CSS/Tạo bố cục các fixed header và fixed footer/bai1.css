@@ -1,0 +1,15 @@
+.navbar{
+    top: 0;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    background: black;
+    color: aliceblue;
+}
+.main{  
+    margin-top: 70px; 
+    margin-left: 30px;
+}
+a{
+    color: beige;
+}
